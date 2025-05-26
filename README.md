@@ -1,6 +1,6 @@
 # Lab-3-Railway-Reservation
-# NAME : HARIPRASATH S
-# REGISTER NUMBER : 212222240034
+# NAME : SWETHA R
+# REGISTER NUMBER : 212223040221
 # DATE : 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
